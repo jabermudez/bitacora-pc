@@ -25,4 +25,6 @@ No se detectaron errores de ejecución de JavaScript durante el recorrido comple
 
 ## Límites de esta verificación
 
-La publicación real en GitHub Pages no se ha realizado. Debe habilitarse desde el repositorio del usuario. La verificación no sustituye pruebas con todos los navegadores, tecnologías de asistencia o dispositivos. No se realizaron intervenciones físicas ni comandos reales de mantenimiento. Las respuestas escritas siguen requiriendo revisión pedagógica del instructor.
+GitHub Pages se configuró el 19 de octubre de 2026 desde la rama `main`, carpeta raíz, del repositorio [jabermudez/bitacora-pc](https://github.com/jabermudez/bitacora-pc). Dirección de publicación: [Bitácora PC](https://jabermudez.github.io/bitacora-pc/).
+
+La verificación no sustituye pruebas con todos los navegadores, tecnologías de asistencia o dispositivos. No se realizaron intervenciones físicas ni comandos reales de mantenimiento. Las respuestas escritas siguen requiriendo revisión pedagógica del instructor.

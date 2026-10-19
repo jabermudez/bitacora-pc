@@ -2,6 +2,10 @@
 
 Web estática en español con 12 misiones de mantenimiento de computadores. Diseñada para trabajo autónomo, celulares y computadores, sin cuentas, servidor de datos ni instalación de paquetes.
 
+**Acceso para aprendices:** [Abrir Bitácora PC](https://jabermudez.github.io/bitacora-pc/).
+
+**Repositorio:** [jabermudez/bitacora-pc](https://github.com/jabermudez/bitacora-pc). GitHub Pages publica desde `main`, carpeta raíz. Los cambios subidos a esa rama generan una nueva publicación.
+
 ## Abrir y usar
 
 1. Descomprime el ZIP completo.
