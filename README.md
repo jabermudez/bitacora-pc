@@ -47,7 +47,7 @@ Referencia de publicación: [Configurar la fuente de publicación de GitHub Page
 - Informe final, portafolio, historial de hasta 50 intentos por misión y progreso local.
 - Copia/restauración JSON con validación de estructura y recálculo al importar.
 - Entrega HTML autónoma con respuestas, pruebas, evidencias y reporte, imprimible a PDF desde el navegador.
-- Orientaciones para instructor, rúbrica y matriz de alineación con las 15 secciones de la guía base.
+- Biblioteca de consulta enlazada con las 15 secciones de la guía base.
 
 ## Criterio de avance
 
@@ -66,10 +66,8 @@ La ruta es virtual. No exige abrir equipos, puentear fuentes, medir circuitos en
 ## Editar y adaptar
 
 - `data.js`: títulos, tiempos, preguntas, respuestas, secciones de referencia y consignas de evidencia.
-- `app.js`: comportamiento, exportación, validación y páginas de recursos/instructor.
+- `app.js`: comportamiento, exportación, validación y página de recursos.
 - `styles.css`: diseño adaptable, colores y estilos de impresión.
-- `GUIA-DOCENTE.md`: planeación y revisión.
-- `REVISION-Y-ALINEACION.md`: revisión de la fuente y decisiones de adaptación.
 
 Si cambias IDs o el esquema de datos, migra el almacenamiento o cambia la versión y la clave para no interpretar avances anteriores como nuevas actividades. Si solo cambias preguntas, considera reiniciar la ruta: un resultado previo corresponde a la versión anterior del reto.
 

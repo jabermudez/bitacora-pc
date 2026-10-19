@@ -28,3 +28,8 @@ No se detectaron errores de ejecución de JavaScript durante el recorrido comple
 GitHub Pages se configuró el 19 de octubre de 2026 desde la rama `main`, carpeta raíz, del repositorio [jabermudez/bitacora-pc](https://github.com/jabermudez/bitacora-pc). Dirección de publicación: [Bitácora PC](https://jabermudez.github.io/bitacora-pc/).
 
 La verificación no sustituye pruebas con todos los navegadores, tecnologías de asistencia o dispositivos. No se realizaron intervenciones físicas ni comandos reales de mantenimiento. Las respuestas escritas siguen requiriendo revisión pedagógica del instructor.
+
+## Actualización de la versión para aprendices
+
+Se retiraron el espacio del instructor, su ruta y menú, los documentos docentes publicados y la rúbrica incluida en la exportación HTML. Se verificaron las 12 misiones, la navegación, la exportación sin rúbrica y la conservación del espacio docente en una copia local independiente.
+
